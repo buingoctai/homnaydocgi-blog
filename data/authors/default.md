@@ -1,16 +1,13 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Bùi Ngọc Tài
+avatar: /static/images/avatar.jpg
+occupation: Kỹ Sư Phần Mềm
+company: Zalo Group
+email: taibn.dev@gmail.com
+linkedin: https://www.linkedin.com/in/b%C3%B9i-ng%E1%BB%8Dc-t%C3%A0i-0010a6152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiBNDlMMLSFGYNestQ9L5cg%3D%3D
+github: https://github.com/buingoctai
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tốt nghiệp ngành điện tử viễn thông.
+Làm việc trong lĩnh vực phần mềm khoảng 2 năm.
+Javascript, little python, c++.
